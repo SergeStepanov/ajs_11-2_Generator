@@ -1,1 +1,1 @@
-# ajs_11-2_Generator
+# ajs_11-2_Generator [![Build status](https://ci.appveyor.com/api/projects/status/npruqp9hdk502d7u?svg=true)](https://ci.appveyor.com/project/SergeStepanov/ajs-11-2-generator)
